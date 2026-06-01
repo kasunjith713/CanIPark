@@ -131,6 +131,10 @@ See [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md) for a detailed file l
 
 This app is provided as a convenience tool only. It does not constitute legal advice. Always read the actual parking sign before making a parking decision. See [docs/LEGAL_DISCLAIMER.md](docs/LEGAL_DISCLAIMER.md) for full details.
 
+## Author
+
+**Kasunjith** — Main contributor and developer
+
 ## License
 
-Copyright 2024-2026. All rights reserved.
+Copyright 2024-2026 Kasunjith. All rights reserved.

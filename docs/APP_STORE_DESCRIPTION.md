@@ -84,6 +84,9 @@ Initial release:
 4. "Review your scan history"
 5. "Works with all Australian parking sign types"
 
+## Developer
+Kasunjith
+
 ## Support URL
 https://canipark.app/support
 
